@@ -6,7 +6,7 @@ Java Game Project in course " Programming Methodology " with OOP-Concept (Create
 ## Documentation
  - [Fishing Valley Project Report](https://github.com/JinDamanee2544/Fishing-Valley/blob/earth/ProjectReport.pdf)
 
-## Resource 
+## Resource / Image / Sprite
  - Stardew Valley (For Education, Not in Commercial use)
 
 ## Screenshot
